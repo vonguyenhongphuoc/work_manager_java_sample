@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Work Manager Java Sample</string>
+    <string name="run_worker_task">Run Worker Task</string>
+</resources>
